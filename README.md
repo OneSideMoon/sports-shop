@@ -1,10 +1,11 @@
 # Web Application Project Sports Store
 <br>
-<div align="center" justify="center">
+<div align="center">
     <img src="./preview/sports-shop.png" style="width: 50%; border-radius: 15px;" alt="Big Screen Previw">
     <br>
-    <img src="./preview/sports-shop-2.png" style="width: 45%; border-radius: 15px;" alt="Tablet Screen Previw">
-    <img src="./preview/sports-shop-3.png" style="width: 45%; border-radius: 15px;" alt="Mobile Screen Previw">
+    <img src="./preview/sports-shop-2.png" style="width: 50%; border-radius: 15px;" alt="Tablet Screen Previw">
+    <br>
+    <img src="./preview/sports-shop-3.png" style="width: 50%; border-radius: 15px;" alt="Mobile Screen Previw">
 </div>  
 
 This repository contains the frontend part of the Sports Store web application. The project is designed using HTML and CSS, with a focus on creating a responsive and interactive user interface. The frontend incorporates modern design principles and is optimized for various devices and screen sizes.
