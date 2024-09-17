@@ -1,6 +1,6 @@
 # Web Application Project Sports Store
 <br>
-<div align="center">
+<div align="center" justify="center">
     <img src="./preview/sports-shop.png" style="width: 50%; border-radius: 15px;" alt="Big Screen Previw">
     <br>
     <img src="./preview/sports-shop-2.png" style="width: 45%; border-radius: 15px;" alt="Tablet Screen Previw">
